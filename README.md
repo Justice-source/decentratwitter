@@ -41,11 +41,6 @@ For a more comprehensive understanding, Explore our dApp's functionalities and e
 
 
 
-
-
-
-
-
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contract)

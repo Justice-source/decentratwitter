@@ -33,7 +33,8 @@ Our dApp leverages a variety of technologies for a seamless user experience:
 Our decentralized social dApp represents a paradigm shift in social networking. By utilizing blockchain and decentralized technologies, it empowers users to have full control over their data and interactions. Unlike traditional platforms, this dApp puts users in charge, removes intermediaries, and fosters a community-driven environment. With censorship-resistant features, content monetization, and a transparent architecture, it stands as a testament to the potential of blockchain in revolutionizing social media.
 
 For a more comprehensive understanding, Explore our dApp's functionalities and experience the future of social networking on the [Firebase](https://decentratwitter.web.app/).
-
+To go the extra mile, I considered including a brief video recording at the end of my README writeup. This recording should provide a walkthrough of your application, highlighting its main features and showcasing user interactions. 
+[Brief recording](https://www.loom.com/share/166439f380ed4dfb89630d420334a2b9?sid=e8470a64-690b-4464-9b30-dc8bf85a0851)
 
 
 

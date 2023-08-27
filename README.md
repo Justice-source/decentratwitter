@@ -48,7 +48,7 @@ For a more comprehensive understanding, Explore our dApp's functionalities and e
 - [Ethers](https://docs.ethers.io/v5/) (Blockchain Interaction)
 - [Hardhat](https://hardhat.org/) (Development Framework)
 - [Ipfs](https://ipfs.io/) (Metadata storage)
-- [Firebace](https://firebase.google.com/) (Web hosting)
+- [Firebase](https://firebase.google.com/) (Web hosting)
 - [React routers](https://v5.reactrouter.com/) (Navigational components)
 
 ## Requirements For Initial Setup
